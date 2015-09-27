@@ -1,14 +1,16 @@
-This Repository contains the R code and files for the course project of the "Getting and Cleaning Data" course in Coursera.
-==================================================================
+#This Repository contains the R code and files for the course project of the "Getting and Cleaning Data" course in Coursera.
+
 The dataset being used is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-========
+
+
 `CodeBook.md` describes the variables, the data, and the work performed.
 
 `run_analysis.R` contains all the code to perform the analyses described in the 5 steps provided. 
 
 The final output of the project is called `TidyData.txt`, and uploaded in the course project's form.
-==================================================================
-The dataset includes the following files:
+
+
+#The dataset includes the following files:
 
 - 'README.txt'
 
