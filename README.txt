@@ -1,4 +1,3 @@
-==================================================================
 This Repository contains the R code and files for the course project of the "Getting and Cleaning Data" course in Coursera.
 ==================================================================
 The dataset being used is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
